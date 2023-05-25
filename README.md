@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afaq503
-- 👀 I’m interested in cross Paltfrom like (React).
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in Full stack Developer.
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on application development.
 - 📫 You contact me using github and my email.
 
