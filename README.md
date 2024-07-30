@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Afaq503
 - 👀 I’m interested in Full stack Developer.
-- 🌱 I’m currently learning backend with js
 - 💞️ I’m looking to collaborate on application development.
 - 📫 You contact me using github and my email.
 
